@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "244333710714",
+    "firebase_url": "https://cryptocurrency-app-e8793.firebaseio.com",
+    "project_id": "cryptocurrency-app-e8793",
+    "storage_bucket": "cryptocurrency-app-e8793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244333710714:android:f0dbc45d1a3e6d0938dac3",
+        "android_client_info": {
+          "package_name": "com.example.cryptocurrency_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244333710714-qnpu994635mlpnjpamnb0mcq3s98s2io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB71wIJ_rSGMxPHJQgJXqupII0hfkPN7Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244333710714-qnpu994635mlpnjpamnb0mcq3s98s2io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

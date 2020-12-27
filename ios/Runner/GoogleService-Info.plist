@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>639455368932-fa5spiejokab3u7oj8o9i0okqertalo2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.639455368932-fa5spiejokab3u7oj8o9i0okqertalo2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGc6mUr3dfS8zHs2VYQ6CClvo-e6mg0dY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>639455368932</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cryptocurrencyApp</string>
+	<key>PROJECT_ID</key>
+	<string>cryptocurrency-app-79127</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cryptocurrency-app-79127.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:639455368932:ios:b46e7b1c18e64bde47fef1</string>
+	<key>DATABASE_URL</key>
+	<string>https://cryptocurrency-app-79127.firebaseio.com</string>
+</dict>
+</plist>
